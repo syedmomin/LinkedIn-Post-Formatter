@@ -1,0 +1,30 @@
+.linkedin-formatter-toolbox {
+    display: flex;
+    gap: 5px;
+    padding: 5px;
+    background-color: #f3f6f8;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .linkedin-formatter-toolbox button {
+    background-color: white;
+    border: 1px solid #0a59a7;
+    color: #0a59a7;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    font-size: 16px;
+    height: 36px;
+    width: auto;
+  }
+  
+  .linkedin-formatter-toolbox button:hover {
+    background-color: #0a59a7;
+    color: white;
+  }
+
+  .linkedin-formatter-toolbox .selected {
+    background-color: #0a59a7;
+    color: white;
+  }
